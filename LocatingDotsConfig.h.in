@@ -1,0 +1,4 @@
+// the configured options and settings for Tutorial
+#define LocatingDots_VERSION_MAJOR @LocatingDots_VERSION_MAJOR@
+#define LocatingDots_VERSION_MINOR @LocatingDots_VERSION_MINOR@
+#cmakedefine USE_PREPROCESSING
